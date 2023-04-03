@@ -1,0 +1,7 @@
+# .gitignore
+
+# Docker cache files
+**/Dockerfile.cache
+
+# Environment files
+.env
